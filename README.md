@@ -1,2 +1,10 @@
-# Aurora-Over-Rivers
-Aurora over Rivers là một ứng dụng mã nguồn mở độc đáo được thiết kế để mang đến trải nghiệm xem YouTube hoàn toàn miễn phí, không quảng cáo và hỗ trợ phát nhạc nền liên tục ngay cả khi tắt màn hình thiết bị
+Giới thiệu ứng dụng Aurora over Rivers
+Aurora over Rivers là một ứng dụng mã nguồn mở độc đáo được thiết kế để mang đến trải nghiệm xem YouTube hoàn toàn miễn phí, không quảng cáo và hỗ trợ phát nhạc nền liên tục ngay cả khi tắt màn hình thiết bị. Lấy cảm hứng từ vẻ đẹp huyền ảo của cực quang trên những dòng sông, ứng dụng này không chỉ cung cấp giao diện thân thiện, mà còn tối ưu hóa trải nghiệm người dùng với các tính năng vượt trội.
+
+Không giống như ứng dụng YouTube chính thức, Aurora over Rivers loại bỏ hoàn toàn quảng cáo, cho phép bạn thưởng thức video và âm nhạc mà không bị gián đoạn. Đặc biệt, tính năng chạy nền đảm bảo âm thanh không bị tắt khi bạn khóa màn hình hoặc chuyển sang ứng dụng khác, rất lý tưởng để nghe nhạc, podcast hoặc sách nói trong lúc làm việc, học tập hay thư giãn. Là một dự án mã nguồn mở, Aurora over Rivers minh bạch, không thu phí và khuyến khích cộng đồng tham gia phát triển, mang lại giải pháp miễn phí, tiện lợi cho mọi người dùng trên toàn thế giới.
+
+Aurora over Rivers được xây dựng dựa trên nền tảng mã nguồn mở, tuân thủ các tiêu chuẩn tự do của cộng đồng phần mềm tự do (open source software). Toàn bộ mã nguồn của ứng dụng được công khai trên các kho lưu trữ như GitHub, cho phép bất kỳ ai cũng có thể tải xuống, sử dụng, chỉnh sửa và phân phối lại mà không gặp bất kỳ rào cản nào về chi phí hay pháp lý, miễn là tuân thủ giấy phép mã nguồn mở (ví dụ: GPL hoặc MIT). Điều này đảm bảo rằng ứng dụng không chỉ miễn phí mà còn trao quyền tự do tối đa cho người dùng.
+
+Tính mở của Aurora over Rivers không dừng lại ở việc sử dụng cá nhân, mà còn khuyến khích sự tham gia của cộng đồng lập trình viên trên toàn cầu. Bất kỳ ai, từ nhà phát triển nghiệp dư đến chuyên gia, đều có thể đóng góp ý tưởng, sửa lỗi, tối ưu hóa hiệu suất hoặc thêm tính năng mới phù hợp với nhu cầu của người dùng. Nhờ mô hình phát triển cộng đồng này, ứng dụng không bị phụ thuộc vào một nhóm nhỏ mà liên tục được cải tiến bởi chính những người sử dụng nó, tạo nên một sản phẩm linh hoạt, đa dạng và phản ánh đúng mong muốn của cộng đồng.
+
+Với tinh thần mã nguồn tự do, Aurora over Rivers không chỉ là một công cụ giải trí mà còn là biểu tượng của sự hợp tác và chia sẻ tri thức, mang lại lợi ích bền vững cho mọi người mà không bị ràng buộc bởi các mô hình thương mại độc quyền.
